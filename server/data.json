@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Спартак",
+      "author": "Р.Джованьола",
+      "price": 371,
+      "image": "https://cdn1.ozone.ru/s3/multimedia-9/6581719161.jpg",
+      "isBookmarked": false
+    },
+    {
+      "id": 2,
+      "title": "Остров в океане",
+      "author": "Эрнест Хемингуэй",
+      "price": 495,
+      "image": "https://img3.labirint.ru/rc/a499a878f24b182ee8b1ab2a629ea346/363x561q80/books20/198071/cover.jpg?1280394613",
+      "isBookmarked": false
+    }
+  ]
